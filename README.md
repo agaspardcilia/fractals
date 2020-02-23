@@ -2,7 +2,7 @@
 
 # Fractals
 
-I was bored and had a friend who knows of to do maths, so we made a something that makes fractals.
+I was bored and had a friend who knows of to do maths, so we made something that makes fractals.
 
 ## Usage
 
