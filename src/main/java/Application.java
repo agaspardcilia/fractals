@@ -23,7 +23,7 @@ public class Application {
     }
 
     private static void compute(Complex e, String resultPath, int rez) {
-        Fractals f = new Fractals(e.toString(), 5000, e);
+        Fractals f = new Fractals(e.toString(), rez, e);
 
         try {
             f.doYourStuff();
