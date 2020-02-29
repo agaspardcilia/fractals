@@ -17,7 +17,7 @@ public class Application {
         constants.add(new Complex(-0.72,0.11));
         constants.add(new Complex(0.158,0.013));
 
-        constants.forEach(e -> compute(e, args[0], Integer.parseInt(args[2])));
+        constants.forEach(e -> compute(e, args[0], Integer.parseInt(args[1])));
 
         System.exit(0);
     }
